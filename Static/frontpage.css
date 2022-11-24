@@ -1,0 +1,70 @@
+header{
+    text-align: center;
+    position: relative;
+    background-color: rgb(71, 133, 90);
+    color: aliceblue; 
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    left: 0;
+    bottom: 0;   
+}
+ul{
+    position: relative;
+    display: inline;
+    align-items: center;
+    text-align: center;
+     
+}
+
+.home{
+    text-align: center;
+    text-align-last: center;
+    font-size: large;
+
+}
+.explore{
+    text-align: center;
+    text-align-last: center;
+    font-size: large;
+}
+.about{
+    text-align: center;
+    text-align-last: center;
+    font-size: large;
+}
+.contact{
+    text-align: center;
+    text-align-last: center;
+    font-size: large;
+}
+
+body{
+    position: relative;
+    display: block;
+    margin: 8px;
+    background-color: rgb(195, 212, 228);
+}
+.text-center{
+    align-items: center;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.container{
+    position: relative;
+    width: 100%;
+    border: 15px black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.footer{
+    text-align: center;
+    position: fixed;
+    background-color: rgb(71, 133, 90);
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    color: antiquewhite;
+}
